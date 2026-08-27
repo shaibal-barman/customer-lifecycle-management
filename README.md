@@ -4,6 +4,15 @@ A practical system for keeping customer context, risk, enablement, value, and fo
 
 Customer relationships become fragile when important context stays inside individual conversations, account status is based on instinct, and feedback disappears after it is recorded. This framework is designed to prevent that. It connects what the customer is trying to achieve with the evidence a team needs to decide what should happen next.
 
+## Start here: a three-minute review
+
+If you are reviewing this repository for the first time:
+
+1. Read the four [operating rules](#the-operating-rules).
+2. See how an emerging concern becomes an owned response in the [Early Risk Review Example](examples/early-risk-review-example.md).
+3. See how broad feedback becomes a cross-functional decision in the [Customer Feedback to Action Example](examples/customer-feedback-to-action-example.md).
+4. Open the [Account Review Template](templates/account-review-template.md) to see the minimum evidence I would want before making an account decision.
+
 ## The operating rules
 
 1. **No status without evidence.** A label such as *healthy* or *at risk* must be supported by an observable signal.
@@ -36,6 +45,8 @@ The sequence is deliberately circular. Customer conditions change, so context mu
 | [Voice of Customer](framework/04-voice-of-customer.md) | Is the issue rooted in product, service, process, or understanding—and who owns the next step? |
 | [Value and retention](framework/05-value-and-retention.md) | What evidence connects activity to a business outcome? |
 | [Early Risk Response Procedure](procedures/early-risk-response.md) | How should an emerging customer risk be verified, owned, communicated, and closed? |
+| [Early Risk Review Example](examples/early-risk-review-example.md) | What does evidence-based risk ownership look like in practice? |
+| [Customer Feedback to Action Example](examples/customer-feedback-to-action-example.md) | How can broad feedback become a useful product, service, process, or enablement decision? |
 | [Account Review Template](templates/account-review-template.md) | What should be captured before an account decision? |
 | [Customer Feedback Record](templates/customer-feedback-record.md) | What information makes feedback useful to another team? |
 | [Value Review Template](templates/value-review-template.md) | How should progress, evidence, and the next decision be presented? |
